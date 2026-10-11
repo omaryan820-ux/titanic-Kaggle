@@ -87,8 +87,8 @@ and place them in a `data/` folder at the repo root.
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/titanic-kaggle.git
-cd titanic-kaggle
+git clone https://github.com/omaryan820-ux/titanic-Kaggle.git
+cd titanic-Kaggle
 pip install -r requirements.txt
 jupyter notebook notebooks/titanic.ipynb
 ```
