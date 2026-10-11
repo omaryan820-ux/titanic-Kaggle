@@ -72,7 +72,7 @@ families split across folds make CV slightly optimistic.
 titanic-kaggle/
 ├── data/                 # not tracked, see Data section
 ├── notebooks/
-│   └── titanic.ipynb     # EDA, preprocessing, modeling
+│   └── titanic-1.ipynb     # EDA, preprocessing, modeling
 ├── README.md
 ├── requirements.txt
 └── .gitignore
